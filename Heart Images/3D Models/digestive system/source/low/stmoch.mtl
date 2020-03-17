@@ -1,0 +1,477 @@
+newmtl Male_Anatomy_Complete_Rigged_V06_MA:Male_Circulatory_System_V05:Circulatory_Arteries_GeoSG
+illum 4
+Kd 0.80 0.00 0.00
+Ka 0.30 0.30 0.30
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 1.00 1.00 1.00
+Ns 54.00
+newmtl Male_Anatomy_Complete_Rigged_V06_MA:Male_Circulatory_System_V05:Circulatory_Bicuspid_Valve_GeoSG
+illum 4
+Kd 0.94 0.88 0.80
+Ka 0.29 0.29 0.29
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 1.00 1.00 1.00
+Ns 48.00
+newmtl Male_Anatomy_Complete_Rigged_V06_MA:Male_Circulatory_System_V05:Circulatory_Heart_GeoSG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.72 0.72 0.72
+Ns 95.61
+newmtl Male_Anatomy_Complete_Rigged_V06_MA:Male_Circulatory_System_V05:Circulatory_Heart_Left_Atrium_GeoSG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.70 0.70 0.70
+Ns 98.00
+newmtl Male_Anatomy_Complete_Rigged_V06_MA:Male_Circulatory_System_V05:Circulatory_Heart_Right_Atrium_GeoSG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.75 0.75 0.75
+Ns 98.00
+newmtl Male_Anatomy_Complete_Rigged_V06_MA:Male_Circulatory_System_V05:Circulatory_Veins_GeoSG
+illum 4
+Kd 0.00 0.40 0.80
+Ka 0.30 0.30 0.30
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 1.00 1.00 1.00
+Ns 54.00
+newmtl Male_Anatomy_Complete_Rigged_V06_MA:Male_Digestive_System_V05:Digestive_Bileduct_GeoSG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.30 0.30 0.30
+Tf 1.00 1.00 1.00
+map_Kd Digestive_Bileduct_Dif.jpg
+Ni 1.00
+Ks 0.84 0.84 0.84
+Ns 98.00
+newmtl Male_Anatomy_Complete_Rigged_V06_MA:Male_Digestive_System_V05:Digestive_Colon_GeoSG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Digestive_Colon_Dif.jpg
+Ni 1.00
+Ks 1.00 1.00 1.00
+Ns 98.00
+newmtl Male_Anatomy_Complete_Rigged_V06_MA:Male_Digestive_System_V05:Digestive_Gall_Bladder_GeoSG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Digestive_Gallbladder_Dif.jpg
+bump Digestive_Galbladder_Bump.jpg -bm 0.02
+Ni 1.00
+Ks 0.33 0.33 0.33
+Ns 98.00
+newmtl Male_Anatomy_Complete_Rigged_V06_MA:Male_Digestive_System_V05:Digestive_Liver_GeoSG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Digestive_Liver_Dif.jpg
+Ni 1.00
+Ks 0.20 0.20 0.20
+Ns 31.87
+newmtl Male_Anatomy_Complete_Rigged_V06_MA:Male_Digestive_System_V05:Digestive_Small_Intestine_GeoSG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Digestive_Small_Intestines_Dif.jpg
+bump Digestive_Small_Intestines_Bump.jpg -bm 0.1
+Ni 1.00
+Ks 1.00 1.00 1.00
+Ns 98.00
+newmtl Male_Anatomy_Complete_Rigged_V06_MA:Male_Digestive_System_V05:Digestive_Stomach_GeoSG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Digestive_Stomach_Dif.jpg
+Ni 1.00
+Ks 0.67 0.67 0.67
+Ns 98.00
+newmtl Male_Anatomy_Complete_Rigged_V06_MA:Male_Digestive_System_V05:Digestive_Tongue_GeoSG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Digestive_Tongue_Dif.jpg
+bump Digestive_Tongue_Bump.jpg -bm 0.1
+Ni 1.00
+Ks 1.00 1.00 1.00
+Ns 98.00
+newmtl Male_Anatomy_Complete_Rigged_V06_MA:Male_Digestive_System_V05:Digestove_Falciform_Ligament_GeoSG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.30 0.30 0.30
+Tf 1.00 1.00 1.00
+map_Kd Digestive_Falciform_Ligament_Dif.jpg
+Ni 1.00
+Ks 0.71 0.71 0.71
+Ns 98.00
+newmtl Male_Anatomy_Complete_Rigged_V06_MA:Male_Integumentary_System_V05:Male_Body_Hair_GeoSG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.09 0.09 0.09
+Ns 18.00
+newmtl Male_Anatomy_Complete_Rigged_V06_MA:Male_Integumentary_System_V05:Nervous_Eye_Ball_Outer_Left_GeoSG1
+illum 4
+Kd 0.50 0.50 0.50
+Ka 0.30 0.30 0.30
+Tf 0.00 0.00 0.00
+Ni 1.00
+Ks 1.00 1.00 1.00
+Ns 81.27
+newmtl Male_Anatomy_Complete_Rigged_V06_MA:Male_Lymphatic_System_V05:Lymphatic_Lymph_Vessels_GeoSG
+illum 4
+Kd 0.15 0.45 0.27
+Ka 0.17 0.17 0.17
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.88 0.88 0.88
+Ns 98.00
+newmtl Male_Anatomy_Complete_Rigged_V06_MA:Male_Lymphatic_System_V05:Lymphatic_Spleen_GeoSG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 1.00 1.00 1.00
+Ns 98.00
+newmtl Male_Anatomy_Complete_Rigged_V06_MA:Male_Muscular_System_V05:Arm_Muscles:Abductor_Digiti_Quinti_Brevis_Muscle_LeftSG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.63 0.63 0.63
+Ns 98.00
+newmtl Male_Anatomy_Complete_Rigged_V06_MA:Male_Muscular_System_V05:Head_Muscles:Auricular_Anterior_Muscle_LeftSG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.56 0.56 0.56
+Ns 98.00
+newmtl Male_Anatomy_Complete_Rigged_V06_MA:Male_Muscular_System_V05:Leg_Muscles:Abductor_Digiti_Minimi_LeftSG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.60 0.60 0.60
+Ns 98.00
+newmtl Male_Anatomy_Complete_Rigged_V06_MA:Male_Muscular_System_V05:Nervous_Eye_Ball_Inner_Left_GeoSG1
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.30 0.30 0.30
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 1.00 1.00 1.00
+Ns 18.00
+newmtl Male_Anatomy_Complete_Rigged_V06_MA:Male_Muscular_System_V05:Torso_Muscles:Abdominal_External_Oblique_MuscleSG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.54 0.54 0.54
+Ns 98.00
+newmtl Male_Anatomy_Complete_Rigged_V06_MA:Male_Muscular_System_V05:Torso_Muscles:Diaphragm_Muscle_GeoSG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 1.00 1.00 1.00
+Ns 18.00
+newmtl Male_Anatomy_Complete_Rigged_V06_MA:Male_Nervous_System_V05:Human_Brain_V06:Nervous_Pituarty_Gland_GeoSG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 1.00 1.00 1.00
+Ns 98.00
+newmtl Male_Anatomy_Complete_Rigged_V06_MA:Male_Nervous_System_V05:Human_Brain_V06:phong1SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 1.00 1.00 1.00
+Ns 98.00
+newmtl Male_Anatomy_Complete_Rigged_V06_MA:Male_Nervous_System_V05:Nervous_Nerves_Left_GeoSG
+illum 4
+Kd 0.89 0.80 0.63
+Ka 0.30 0.30 0.30
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 1.00 1.00 1.00
+Ns 98.00
+newmtl Male_Anatomy_Complete_Rigged_V06_MA:Male_Respiratory_System_V05:Digestive_Mouth_GeoSG1
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.80 0.80 0.80
+Ns 98.00
+newmtl Male_Anatomy_Complete_Rigged_V06_MA:Male_Respiratory_System_V05:Respiratory_Cricothyroid_Ligament_GeoSG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 1.00 1.00 1.00
+Ns 98.00
+newmtl Male_Anatomy_Complete_Rigged_V06_MA:Male_Respiratory_System_V05:Respiratoy_Bronchi_Geo_RightSG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.84 0.84 0.84
+Ns 98.00
+newmtl Male_Anatomy_Complete_Rigged_V06_MA:Male_Respiratory_System_V05:Respiratoy_Lung_Geo_RightSG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.42 0.42 0.42
+Ns 98.00
+newmtl Male_Anatomy_Complete_Rigged_V06_MA:Male_Skeletal_System_V05:Male_Skeletal_Costal_Cartilages_GeoSG
+illum 4
+Kd 0.73 0.68 0.60
+Ka 0.30 0.30 0.30
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.08 0.08 0.08
+Ns 18.00
+newmtl Male_Anatomy_Complete_Rigged_V06_MA:Male_Skeletal_System_V05:Male_Skeletal_Radius_Left_GeoSG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.09 0.09 0.09
+Ns 18.00
+newmtl Male_Anatomy_Complete_Rigged_V06_MA:Male_Urinary_Reproductive_Endrocrine_System_V05:Male_Endocrine_Adrenal_Gland_Geo_LeftSG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.82 0.82 0.82
+Ns 98.00
+newmtl Male_Anatomy_Complete_Rigged_V06_MA:Male_Urinary_Reproductive_Endrocrine_System_V05:Male_Endocrine_Pancreas_GeoSG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.47 0.47 0.47
+Ns 98.00
+newmtl Male_Anatomy_Complete_Rigged_V06_MA:Male_Urinary_Reproductive_Endrocrine_System_V05:Male_Endocrine_Thymus_Gland_GeoSG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.86 0.86 0.86
+Ns 98.00
+newmtl Male_Anatomy_Complete_Rigged_V06_MA:Male_Urinary_Reproductive_Endrocrine_System_V05:Male_Endocrine_Thyroid_Gland_GeoSG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.78 0.78 0.78
+Ns 98.00
+newmtl Male_Anatomy_Complete_Rigged_V06_MA:Male_Urinary_Reproductive_Endrocrine_System_V05:Male_Reproductive_Corpora_Cavernosa_GeoSG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.90 0.90 0.90
+Ns 98.00
+newmtl Male_Anatomy_Complete_Rigged_V06_MA:Male_Urinary_Reproductive_Endrocrine_System_V05:Male_Reproductive_Corpus_Spongiosum_GeoSG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.67 0.67 0.67
+Ns 98.00
+newmtl Male_Anatomy_Complete_Rigged_V06_MA:Male_Urinary_Reproductive_Endrocrine_System_V05:Male_Reproductive_Ductus_Deferens_Geo_LeftSG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 1.00 1.00 1.00
+Ns 98.00
+newmtl Male_Anatomy_Complete_Rigged_V06_MA:Male_Urinary_Reproductive_Endrocrine_System_V05:Male_Reproductive_Prostate_GeoSG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 1.00 1.00 1.00
+Ns 18.00
+newmtl Male_Anatomy_Complete_Rigged_V06_MA:Male_Urinary_Reproductive_Endrocrine_System_V05:Male_Reproductive_Testis_Geo_LeftSG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.41 0.41 0.41
+Ns 98.00
+newmtl Male_Anatomy_Complete_Rigged_V06_MA:Male_Urinary_Reproductive_Endrocrine_System_V05:Male_Urinary_Bladder_GeoSG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 1.00 1.00 1.00
+Ns 98.00
+newmtl Male_Anatomy_Complete_Rigged_V06_MA:Male_Urinary_Reproductive_Endrocrine_System_V05:Male_Urinary_Kidney_Geo_LeftSG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.68 0.68 0.68
+Ns 98.00
+newmtl Male_Anatomy_Complete_Rigged_V06_MA:Male_Urinary_Reproductive_Endrocrine_System_V05:Male_Urinary_Ureter_Geo_LeftSG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 1.00 1.00 1.00
+Ns 98.00
+newmtl Male_Anatomy_Complete_Rigged_V06_MA:PB_skinV2:Male_Integumentary_System_V05:Male_Body_No_Genitals_GeoSG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.12 0.12 0.12
+Ns 33.00
+newmtl Male_Anatomy_Complete_Rigged_V06_MA:lambert6SG
+illum 4
+Kd 0.57 0.26 0.26
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl Male_Anatomy_Complete_Rigged_V06_MA:lambert7SG
+illum 4
+Kd 1.00 1.00 1.00
+Ka 0.00 0.00 0.00
+Tf 0.20 0.20 0.20
+Ni 1.00
+newmtl Male_Anatomy_Complete_Rigged_V06_MA:skeletal_set:Male_Skeletal_System_V05:Male_Skeletal_Atlas_GeoSG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.09 0.09 0.09
+Ns 18.00
+newmtl Male_Anatomy_Complete_Rigged_V06_MA:skeletal_set:Male_Skeletal_System_V05:Male_Skeletal_Clavical_GeoSG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.07 0.07 0.07
+Ns 18.00
+newmtl Male_Anatomy_Complete_Rigged_V06_MA:skeletal_set:Male_Skeletal_System_V05:Male_Skeletal_Costal_Cartilages_GeoSG
+illum 4
+Kd 0.73 0.68 0.60
+Ka 0.30 0.30 0.30
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.08 0.08 0.08
+Ns 18.00
+newmtl Male_Anatomy_Complete_Rigged_V06_MA:skeletal_set:Male_Skeletal_System_V05:Male_Skeletal_Intervertabral_Discs_GeoSG
+illum 4
+Kd 0.73 0.68 0.60
+Ka 0.30 0.30 0.30
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.09 0.09 0.09
+Ns 18.00
+newmtl Male_Anatomy_Complete_Rigged_V06_MA:skeletal_set:Male_Skeletal_System_V05:Male_Skeletal_Mandible_GeoSG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.07 0.07 0.07
+Ns 18.00
+newmtl Male_Anatomy_Complete_Rigged_V06_MA:skeletal_set:Male_Skeletal_System_V05:Male_Skeletal_Pubic_Symphysis_GeoSG
+illum 4
+Kd 0.73 0.68 0.60
+Ka 0.30 0.30 0.30
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.06 0.06 0.06
+Ns 18.00
+newmtl Male_Anatomy_Complete_Rigged_V06_MA:skeletal_set:Male_Skeletal_System_V05:Male_Skeletal_Radius_Left_GeoSG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.09 0.09 0.09
+Ns 18.00
+newmtl Male_Anatomy_Complete_Rigged_V06_MA:skeletal_set:Male_Skeletal_System_V05:Male_Skeletal_Sacrum_GeoSG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.07 0.07 0.07
+Ns 18.00
+newmtl Male_Anatomy_Complete_Rigged_V06_MA:skeletal_set:Male_Skeletal_System_V05:Male_Skeletal_Skull_GeoSG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.07 0.07 0.07
+Ns 18.00
+newmtl Male_Anatomy_Complete_Rigged_V06_MA:skeletal_set:Male_Skeletal_System_V05:Male_Skeletal_Upper_Central_Incisor_Left_GeoSG
+illum 4
+Kd 0.96 0.92 0.84
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.85 0.85 0.85
+Ns 62.94
+newmtl initialShadingGroup
+illum 4
+Kd 0.50 0.50 0.50
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00

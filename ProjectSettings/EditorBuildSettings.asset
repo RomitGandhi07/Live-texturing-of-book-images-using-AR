@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Menu.unity
+    guid: c155258cef04bea4fb5cf9fe5dca0e59
+  - enabled: 1
+    path: Assets/Scenes/Main.unity
+    guid: f94b4b85769b6674a87f47a877b52d6e
+  - enabled: 1
+    path: Assets/Scenes/FinalHeart.unity
+    guid: f841c581528a23b4aad76606c35aa8a3
+  - enabled: 1
+    path: Assets/Scenes/FinalSkull.unity
+    guid: 728585a989e076443b5d42811af190eb
+  - enabled: 1
+    path: Assets/Scenes/FinalBrain.unity
+    guid: 55ef89c7cce8e30429706e059cbf8084
+  - enabled: 1
+    path: Assets/Scenes/FinalLungs.unity
+    guid: b03b69a40788a544194e90f6a8fa89ca
+  - enabled: 1
+    path: Assets/Scenes/HelpScene.unity
+    guid: db01b4bb2c79bae4780e026b316c9282
+  m_configObjects: {}
